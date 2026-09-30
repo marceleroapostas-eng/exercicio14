@@ -1,8 +1,8 @@
-\# Exercício 14 - Cálculo da Idade
+# Exercício 14 - Cálculo da Idade
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,23 +10,23 @@ Este programa solicita o ano de nascimento e o ano atual. Em seguida, calcula a 
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
 
 
-\- NetBeans
+- NetBeans
 
 
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -34,7 +34,7 @@ A entrada contém o ano de nascimento e o ano atual, informados pelo usuário.
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -42,7 +42,7 @@ O programa informa a idade da pessoa ou informa que o ano de nascimento é invá
 
 
 
-\## Autor
+## Autor
 
 
 
